@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Game-Info/static/css/main.bfd1c366.css",
+    "main.js": "/Game-Info/static/js/main.d046f2d8.js",
+    "static/js/787.a36337ac.chunk.js": "/Game-Info/static/js/787.a36337ac.chunk.js",
+    "static/media/game-controller.png": "/Game-Info/static/media/game-controller.b463685b6a61ff76f774.png",
+    "static/media/console.png": "/Game-Info/static/media/console.48960ffaee895a6b5754.png",
+    "index.html": "/Game-Info/index.html",
+    "main.bfd1c366.css.map": "/Game-Info/static/css/main.bfd1c366.css.map",
+    "main.d046f2d8.js.map": "/Game-Info/static/js/main.d046f2d8.js.map",
+    "787.a36337ac.chunk.js.map": "/Game-Info/static/js/787.a36337ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfd1c366.css",
+    "static/js/main.d046f2d8.js"
+  ]
+}
